@@ -414,10 +414,6 @@ span:has(.codicon-git-branch) {
 .search-view .message > .pointer {
   letter-spacing: initial;
 }
-.monaco-workbench .part.editor > .content .editor-group-container > .title .tabs-container > .tab:hover:not(.active) {
-  outline: 1px dashed;
-  outline-offset: -2px;
-}
 .monaco-list .monaco-list-row:hover {
   outline: 1px dashed #f38518;
   outline-offset: -1px;
